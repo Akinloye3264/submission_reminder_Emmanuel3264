@@ -1,0 +1,14 @@
+#!/bin/bash
+
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Emmanuel, shell permissions, submitted
+Herve, intro to linux, missing
+Fola, algebraic, submitted
+Tayo, quadratic, not submitted
+Priemier, python, submitted
+Bola, economics, submitted
+Bukky, Accounting, submitted
